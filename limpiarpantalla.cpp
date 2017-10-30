@@ -6,6 +6,7 @@
 using namespace std;
 
 int main() {
+	cout<<endl<<"programa que limpia la pantalla";
 	char letra;
 	double x,y;
 	for ( ; ; )
@@ -29,6 +30,7 @@ int main() {
 		if (toupper(letra)!='S')
 			break;
 	}
+	
 	}
 	return 0;
 }
